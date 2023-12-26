@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://www.example.com/index.html</loc>
+        <!-- Додайте інші елементи, якщо необхідно -->
+    </url>
+    <url>
+        <loc>http://www.example.com/chandelier.html</loc>
+        <!-- Додайте інші елементи, якщо необхідно -->
+    </url>
+    <url>
+        <loc>http://www.example.com/order.html</loc>
+        <!-- Додайте інші елементи, якщо необхідно -->
+    </url>
+    <url>
+        <loc>http://www.example.com/project.html</loc>
+        <!-- Додайте інші елементи, якщо необхідно -->
+    </url>
+    <url>
+        <loc>http://www.example.com/project-done.html</loc>
+        <!-- Додайте інші елементи, якщо необхідно -->
+    </url>
+    <url>
+        <loc>http://www.example.com/share.html</loc>
+        <!-- Додайте інші елементи, якщо необхідно -->
+    </url>
+</urlset>
